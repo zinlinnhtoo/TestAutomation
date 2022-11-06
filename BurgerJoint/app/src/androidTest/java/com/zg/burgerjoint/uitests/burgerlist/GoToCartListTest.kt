@@ -1,6 +1,7 @@
 package com.zg.burgerjoint.uitests.burgerlist
 
 import android.content.Intent
+import androidx.test.espresso.Espresso
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.action.ViewActions.click
 import androidx.test.espresso.assertion.ViewAssertions.matches
@@ -25,7 +26,10 @@ class GoToCartListTest {
 
     @Test
     fun tapOnCart_navigateToCartList() {
-        onView(withId(R.id.ivCart)).perform(click())
+        onView(withId(R.id.ivCart))
+            .perform(click())
+
+        Thread.sleep(1000L)
         onView(withId(R.id.btnCheckOut))
             .check(matches(isDisplayed()))
     }

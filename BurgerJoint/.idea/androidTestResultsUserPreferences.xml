@@ -11,7 +11,9 @@
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -67,7 +69,9 @@
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -78,10 +82,28 @@
             <AndroidTestResultsTableState>
               <option name="preferredColumnWidths">
                 <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-1249268540">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -92,10 +114,30 @@
             <AndroidTestResultsTableState>
               <option name="preferredColumnWidths">
                 <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="-898315732">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="R7ST602VEEY" value="120" />
+                  <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -106,10 +148,14 @@
             <AndroidTestResultsTableState>
               <option name="preferredColumnWidths">
                 <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -120,10 +166,12 @@
             <AndroidTestResultsTableState>
               <option name="preferredColumnWidths">
                 <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -143,15 +191,49 @@
             </AndroidTestResultsTableState>
           </value>
         </entry>
+        <entry key="-201962278">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="R7ST602VEEY" value="120" />
+                  <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
         <entry key="-126985477">
           <value>
             <AndroidTestResultsTableState>
               <option name="preferredColumnWidths">
                 <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="312590205">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -166,6 +248,22 @@
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
                   <entry key="Tests" value="360" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="663543013">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="R7ST602VEEY" value="120" />
+                  <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -193,7 +291,37 @@
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1231318529">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="Tests" value="360" />
+                  <entry key="samsung" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="1445166376">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
+                  <entry key="Duration" value="90" />
+                  <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -204,10 +332,14 @@
             <AndroidTestResultsTableState>
               <option name="preferredColumnWidths">
                 <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
+                  <entry key="R7ST602VEEY" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-A032F" value="120" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>
@@ -218,10 +350,12 @@
             <AndroidTestResultsTableState>
               <option name="preferredColumnWidths">
                 <map>
+                  <entry key="2529e22ce00c7ece" value="120" />
                   <entry key="4f0101ac" value="120" />
                   <entry key="Duration" value="90" />
                   <entry key="OPPO&#10; CPH2219" value="120" />
                   <entry key="Tests" value="360" />
+                  <entry key="samsung&#10; SM-N960F" value="120" />
                 </map>
               </option>
             </AndroidTestResultsTableState>

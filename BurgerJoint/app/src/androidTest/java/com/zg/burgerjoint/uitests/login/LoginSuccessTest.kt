@@ -6,18 +6,22 @@ import androidx.test.espresso.action.ViewActions.*
 import androidx.test.espresso.assertion.ViewAssertions.matches
 import androidx.test.espresso.matcher.ViewMatchers.isDisplayed
 import androidx.test.espresso.matcher.ViewMatchers.withId
+import androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner
 import androidx.test.rule.ActivityTestRule
 import com.zg.burgerjoint.activities.LoginActivity
 import com.zg.burgerjoint.R
 import org.junit.Before
 import org.junit.Test
+import org.junit.runner.RunWith
 
-class LoginSuccessTest {
-    private val activityRule = ActivityTestRule(LoginActivity::class.java)
+@RunWith(AndroidJUnit4ClassRunner::class)
+open class LoginSuccessTest {
+
+    private val activityTestRule = ActivityTestRule<LoginActivity>(LoginActivity::class.java)
 
     @Before
-    fun setUp() {
-        activityRule.launchActivity(Intent())
+    open fun setUp(){
+        activityTestRule.launchActivity(Intent())
     }
 
     @Test
@@ -26,22 +30,21 @@ class LoginSuccessTest {
     }
 
     @Test
-    fun enterInformation_navigationToBurgerListScreen() {
+    fun enterInformation_navigateToMainScreen(){
         onView(withId(R.id.etUserName)).perform(
-            typeText(
-                TEST_USER_NAME
-            ), closeSoftKeyboard()
+            typeText(TEST_USER_NAME),
+            closeSoftKeyboard()
         )
         onView(withId(R.id.etPassword)).perform(
-            typeText(
-                TEST_PASSWORD
-            ), closeSoftKeyboard()
+            typeText(TEST_PASSWORD),
+            closeSoftKeyboard()
         )
-
         onView(withId(R.id.btnLogin)).perform(click())
-        onView(withId(R.id.rvBurgerList)).check(matches(isDisplayed()))
+        onView((withId(R.id.rvBurgerList))).check(matches(isDisplayed()))
+    }
+
+    companion object {
+        const val TEST_USER_NAME = "Linn"
+        const val TEST_PASSWORD = "123456"
     }
 }
-
-private val TEST_USER_NAME = "Saw Rabin"
-private val TEST_PASSWORD = "1234"

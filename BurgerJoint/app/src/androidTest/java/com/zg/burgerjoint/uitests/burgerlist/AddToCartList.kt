@@ -25,6 +25,7 @@ class AddToCartList {
     @Test
     fun onTapAddToCart_numberOfItemInCartIncrease() {
         onView(first<View>(withId(R.id.btnAddToCart))).perform(click())
+        Thread.sleep(1000L)
         onView(withId(R.id.tvCartCount)).check(matches(withText("1")))
     }
 }

@@ -63,6 +63,14 @@ class MainPresenterImplTest {
     }
 
     @Test
+    fun onTapCart_callNavigateToCartScreen() {
+        mPresenter.onTapCart()
+        verify {
+            mView.navigatetoCartScreen()
+        }
+    }
+
+    @Test
     fun onTapBurger_callNavigateToBurgerDetail() {
         val tappedBurger = BurgerVO()
         tappedBurger.burgerId = 1
@@ -87,7 +95,6 @@ class MainPresenterImplTest {
 
         verify {
             mView.displayBurgerList(getDummyBurgers())
-//            mView.displayCountInCart(0)
         }
     }
 }
